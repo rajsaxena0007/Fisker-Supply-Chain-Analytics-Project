@@ -1,2 +1,2 @@
 # Fisker-Supply-Chain-Analytics-Project
-A complete ML pipeline to predict heart disease severity using clinical features. Includes data cleaning, CatBoost model tuning, performance evaluation, and an interactive interface. Built as part of a healthcare analytics project.
+In-depth analysis of Fisker Inc.'s supply chain, financial structure, and competitive position. Compares key metrics with industry leaders, highlights operational challenges, and suggests strategies for sustainable growth in the EV market.
